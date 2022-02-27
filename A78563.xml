@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speeches and confession of Captain Iohn Cade and John Mils Constable: who were hanged at VVeymouth, for endeavouring to betray that garrison to the enemie, with all the severall examinations of the plotters, and the sentences denounced against them and others of the said conspiracie. By W. Sydenham, Col. Governour of Waymouth, and Captain VVilliam Batten, Vize-Admirall of the Navie, and the rest of the Counsell of War at Waymouth. With a copie of Sir Lewis Dives letter to Colonell Sydenham about the same, and Colonell Sydenham his answere.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78563</idno>
+            <idno type="STC">Wing C193</idno>
+            <idno type="STC">Thomason E274_28</idno>
+            <idno type="STC">ESTC R209886</idno>
+            <idno type="EEBO-CITATION">99868737</idno>
+            <idno type="PROQUEST">99868737</idno>
+            <idno type="VID">121093</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121093)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E274[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speeches and confession of Captain Iohn Cade and John Mils Constable: who were hanged at VVeymouth, for endeavouring to betray that garrison to the enemie, with all the severall examinations of the plotters, and the sentences denounced against them and others of the said conspiracie. By W. Sydenham, Col. Governour of Waymouth, and Captain VVilliam Batten, Vize-Admirall of the Navie, and the rest of the Counsell of War at Waymouth. With a copie of Sir Lewis Dives letter to Colonell Sydenham about the same, and Colonell Sydenham his answere.</title>
+                  <author>Cade, John, d. 1645.</author>
+                  <author>Mils, John, d. 1645.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Iane Coe,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 27th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cade, John, d. 1645 --  Early works to 1800.</term>
+               <term>Mils, John, d. 1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Weymouth and Melcombe Regis (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121093:1" rendition="simple:additions"/>
+            <p>
+               <hi>The laſt Speeches</hi> AND CONFESSION OF CAPTAIN <hi>JOHN CADE</hi> and <hi>JOHN MJLS</hi> Conſtable: Who were hanged at <hi>VVaymouth,</hi> for endeavouring to betray that Garriſon to the enemie, with all the ſeverall ex<g ref="char:EOLhyphen"/>aminations of the Plotters, and the ſentences denoun<g ref="char:EOLhyphen"/>ced againſt them and others of the ſaid Conſpiracie.</p>
+            <p>By W. SYDENHAM, Col. Governour of Waymouth, and Captain <hi>VVilliam Batten,</hi> Vize-Admirall of the Navie, and the reſt of the Counſell of War at Waymouth.</p>
+            <p>With a Coppie of Sir <hi>Lewis Dives</hi> Letter to Colonell <hi>Sydenham</hi> about the ſame, and Colonell <hi>Syden<g ref="char:EOLhyphen"/>ham</hi> his anſwere.</p>
+            <p>Imprinted at London, by <hi>Iane Coe.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:121093:2"/>
+            <pb n="1" facs="tcp:121093:2"/>
+            <head>The laſt Speches, and <hi>Confeſsion of Captaine</hi> Cade, <hi>and</hi> Iohn Mills Conſtable, <hi>who were hanged at</hi> Waymouth.</head>
+            <div type="letter">
+               <head>I ſhall firſt of all preſent you with an inſolent and bould letter ſent by Sir LEWIS DIVES to Colonell SYDENHAM, as you may perceive by the contents there, directed thus.</head>
+               <head type="sub">For Maſter Sydenham at Waymouth.</head>
+               <opener>
+                  <salute>SIR:</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg>N your laſt civill letter, which your Trumpetter brought me; you charge me with treacherie, and <hi>Fabian Hod<g ref="char:EOLhyphen"/>der</hi> and his wife, for Intelligencers, and Traitors: Look but upon your own heart, and there you ſhall finde that Character cleerly written, wherewith, you falſely and iniurioſly accuſe other men. The deſire I had to preſerve their innocencie, from your barbarous inhumanity, was, for that I knew their ap<g ref="char:EOLhyphen"/>proved loyalty to their Soveraigne, was a crime ſuffi<g ref="char:EOLhyphen"/>cient
+<pb n="2" facs="tcp:121093:3"/>to make them expect the worſt of ills, from Traytors hand. But doe your will, and heape venge<g ref="char:EOLhyphen"/>ance on your owne head, by ſhedding more innocent blood: <hi>Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> ſhall die, deſervedly by the Law of Armes; for having quitted the Kings ſervice, wherein in he was entertained, and turning Rebell: And wheras you threaten others of a higher. Orbe ſhall follow him, know this, That were all my children under the power of your cruelty, I would not be diverted from juſtice to ſave their lives. And for nocluſion, be boſt aſſured, that if you put to death thoſe innocent perſons, I will vindicate their blood, to the utmoſt of that power wherwith God ſhall enable me, upon you and yours, without eve giving quarter to any who hath relation to you, which ſhall faithfully be performed by him that profeſſeth himſelfe your enemie.</p>
+               <closer>
+                  <dateline>
+                     <hi>Sherborne</hi> 
+                     <date> the 12. <hi>of</hi> March 1644.</date>
+                  </dateline>
+                  <signed>Lewis Dyves.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To this malepart Paper, Colonell <hi>Sydenham</hi> returns this modeſt (but Souldier like) Anſwer, directed thus,</head>
+               <head type="sub">For Sir <hi>Lewis Dives</hi> theſe, at <hi>Sherborn</hi> Lodge.</head>
+               <p>
+                  <hi>YOu call my laſt Letter civill, and yet ſeem to be ſome<g ref="char:EOLhyphen"/>what anory at it, which I ſhould admire, had I not late<g ref="char:EOLhyphen"/>ly given you ſufficient cauſe; for I muſt confeſſe ingenuoſly, had I livery and ſeizon of your Caſtle, I ſhould not be ſo ſoon a ſlodged without ſome indignation, eſpecially, if an Army of mine own party ſtood by and lookt upon it. You deſire come
+<pb n="3" facs="tcp:121093:3"/>to look upon my heart, which I have done, and finde written there in the faireſt Characters, a true deſire of advancing Gods honour, maintaining the Kings juſt power, and con<g ref="char:EOLhyphen"/>tending for the priviledges of the Parliament at</hi> Weſt<g ref="char:EOLhyphen"/>minſter, <hi>and the liberty of the Subject: which when I finde you ſee maliciouſly oppoſing and deſpightfully ſtiling Treaſon and Rebellion, I am induced to think this age hath produced unparaleld Monſters, who are (without ſlander)</hi> peſtes hu<g ref="char:EOLhyphen"/>manigeneris; <hi>for Traytors I may not call you, who cannot be poſsibly guiltie of ſuch a ſin in the opinion of</hi> Aulicus, <hi>the onely Author, which it ſeems by your language) you are verſt in. You are very tender of ſhedding innocant blood, and therefore</hi> Patie <hi>muſt die; but</hi> (<hi>good Sir</hi> Lewis) <hi>for what crime? He ſerved (you ſay) on your ſide, I have heard twas (as you do) onely as a Scribe, and hath ſince turned Rebel, becauſe he would not ſtand tamely ſtill, whiles you were plun<g ref="char:EOLhyphen"/>dering him,</hi> heú nefas infandum, <hi>for this, right or wrong, the poor man muſt ſuffer; and (ſetting honeſty aſide) you will be juſt for certain. May it pleaſe your VVorſhip to be merci<g ref="char:EOLhyphen"/>full too, if not to him, yet to me and mine (when we fall in<g ref="char:EOLhyphen"/>to your hands:) till when, your lote experience might re<g ref="char:EOLhyphen"/>member you, that I am is far from fearing, as my preſent condition is far from needing your quarter, which I hope I ſhall have an opportunitie to diſpute farther of with you, whom, or any man in</hi> England, <hi>I ſhall anſwer in this quar<g ref="char:EOLhyphen"/>rell, in the mean know that I intend to make a <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of your Letter to hang</hi> Hodder <hi>with, whoſe crime is the firſt contrivance of that treachery, which you after (though bleſſed be God, but ſimply) acted to the loſſe, of what you lately va<g ref="char:EOLhyphen"/>lue a worth a crown.</hi> Patie <hi>you may hang but will not be able to bury, which may occaſion a great mortality amongſt you: And therefore be adviſed to forbear by him, to whom pro<g ref="char:EOLhyphen"/>claiming
+<pb n="4" facs="tcp:121093:4"/>your ſelf a profeſſed enemy, you have invited me as profeſsedly to ſubſcribe my ſelf,</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>Yours</hi>
+W. Sydenham.</signed> 
+                  <dateline>
+                     <date>March 15. 1644.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="testimony">
+               <head>
+                  <hi>Weymouth</hi> and <hi>Melcomb-Regis: At a Councel of VVar there held the firſt day of March,</hi> 1644. <hi>before the Governour, and all the Field Officers and Captains of the Garriſon of</hi> Weymouth <hi>and</hi> Mel<g ref="char:EOLhyphen"/>comb-Regis: <hi>And alſo before Captain</hi> William Bat<g ref="char:EOLhyphen"/>ten, <hi>Vice-Admirall of the Navy, and Admirall of the Fleet then riding in</hi> Weymouth, <hi>and divers other Sea Captains then preſent.</hi>
+               </head>
+               <p>
+                  <hi>VVAter Bond</hi> of Waymouth on his voluntarie oath affirmeth that <hi>Thomas Samwaies</hi> of this towne Taylor, on Sunday laſt was fortnight about eight of the Clocke at night, in the houſe of <hi>William Philips,</hi> ſince deceaſed, in the preſence of <hi>Iohn Scton, Io. Dry</hi> Tanner, the ſaid <hi>William Philips, Leonard Symonds</hi> ſince dead <hi>Walter Mich.</hi> &amp; <hi>Io. Mills,</hi> Conſtble, <hi>Samuell Takle</hi> Baker, and <hi>Iohn Lock</hi> ſay, that on that night, or the Munday night following he would have the doores of the Marſhalſey broken upand that Portland men would come in and helpe, and that the gates of the towne would be opened unto them; And this Examinant ſaith, that all the perſons before named, were in the houſe be<g ref="char:EOLhyphen"/>fore he came in, and that he this Examinant ſtayed not there above a quarter of an howie, and went thence a Shipboard, and there ſtayed till about one of the
+<pb n="5" facs="tcp:121093:4"/>clocke, and then came home, and was going to bed, at which time Robert Bon, and Edward Dove, both of Portland, came to this Examinants houſe in Waymouth &amp; cauſed him to go up to the North point ſaying, that it was taken for King <hi>Charles;</hi> And this Examinant went thither with the ſaid Bun and Doby, and did ſervice there in the North point and helpt leaded the Ord<g ref="char:EOLhyphen"/>nance: and this Examinant ſaith that Humpherie Votier and he this Examinant both knew that the North point was taken, and this Examinant ſaith, that the ſaid Iohn Dry ſaid, at the ſame time, that he was to go to the paſ<g ref="char:EOLhyphen"/>ſage to helpe on the Portland men, and then ſpake to the ſaid Mils to go with him, to which hee made no re<g ref="char:EOLhyphen"/>ply but ſmiled at it.</p>
+               <p>
+                  <hi>Thomas Samwaies</hi> of this towne Tailor, on his volun<g ref="char:EOLhyphen"/>tarie oath ſaith, that Fabian Hodder about a moneth ſithence, at the Priſon told this Examinant. That Sir <hi>Lewis Dives</hi> would gather his forces together, and would come and ſurpriſe this Town with the help of <hi>Portland<g ref="char:EOLhyphen"/>men:</hi> And ſaith he, this Examinant after met with Cap<g ref="char:EOLhyphen"/>tain <hi>John Cade,</hi> at <hi>Fabian Hodders</hi> houſe in the preſence of <hi>Hedders</hi> wife, and had conference about the ſurpri<g ref="char:EOLhyphen"/>zing of this Town, and ſaith, That the ſaid <hi>Cade</hi> and <hi>Hedders</hi> wife told this Examinant, That on Sabbath day laſt was fortnight. Sir <hi>Lewis Dives</hi> and the <hi>Portland</hi> Forces would come and ſurprize this Town, and willed him to tell <hi>VValter Bond,</hi> Marriner, <hi>VVilliam Philips,</hi> and <hi>Leonard Symonds,</hi> of the time of the ſurprize. And this Examinant told the ſaid <hi>Bond</hi> of it accordingly; vnto which <hi>Bond</hi> ſaid, That he would be with his Ship in the Hole, and that if <hi>Portland</hi> men came, he would be ready to aſsiſt them in getting into the North Fort: And this
+<pb n="6" facs="tcp:121093:5"/>Examinant ſaith, That none was preſent but himſelf when he delivered the Meſſage to <hi>Bond.</hi> This Exami<g ref="char:EOLhyphen"/>nant further ſaith. That the ſaid Cap. <hi>Cade</hi> on Tueſday of Wedneſday morning, after the Forts werelſurprized by the enemy, met this Examinant at his door, ſpake to him, this Examinant, to this purpoſe, <hi>viz.</hi> Come let us get a Company, and ſeize upon the Main Guard, and let down the Bridge, and let over the Kings Forces, and ſeize on, and break open the priſon door.</p>
+               <p>
+                  <hi>Iohn Mills</hi> of <hi>Weymouth,</hi> Conſtable, confeſſeth, That on Sunday laſt was fortnight, he, this Examinant, about ſix of the clock at night, was in the houſe of the ſaid <hi>William Philips,</hi> to look for <hi>Thomas Alexander,</hi> where were preſent, <hi>Walter Bond, Thomas Samwayes, Iohn Dry, William Philips,</hi> and <hi>Thomas Alexander,</hi> and ſaith, That he ſpake to no body there, nor any to him, and ſtayed there not half a quarter of an hour, and went thence to <hi>Thomas Alexanders,</hi> and there ſupt; and being charged, that the morning when this Town was ſur<g ref="char:EOLhyphen"/>prized, that he had a Handkerchief about his Arm in the Streets, denieth it, but ſaith, He had a Handkerchiaf on his Arm in the houſe.</p>
+               <p>The ſaid <hi>Thomas Samwayes,</hi> further voluntarily depoſeth, That about a week before the Forts of this Grriſon were ſur<g ref="char:EOLhyphen"/>prized, <hi>Fabian Hodder</hi> compoſed an oath in writing to this effect, <hi>viz.</hi> You ſhall ſwear by the Holy Trinity, that you will conceal the intended Plot; which oath, <hi>Fabian Hodders</hi> wife brought to this Examinant, and told him, that all that were made acquainted with the Plot, ſhould take the ſaid oath: And further, this Examinant ſaith, that Captain <hi>Cade</hi> told this Examinant, That before he diſcovered the ſaid Plot to any, they ſhould take the ſaid oath.</p>
+               <p>Captain <hi>Richard Yeardly,</hi> on his voluntary oath, affirmeth, That on the Munday, morning, when the Forts of this Town were ſurprized, he ſaw <hi>Iohn Mills,</hi> one of the Conſtables of this Town, with an Handkercheif, knit about his Arm, which was reported to be the ſigne uſed by <hi>Portland</hi> men when they came to ſurprize the Forts.</p>
+               <p>
+                  <pb n="7" facs="tcp:121093:5"/>
+VVilliam Mineterne of this Town Marriner, on his voluntary oath ſaith, That about a weeke before the Forts were ſurprized, Captain <hi>Iohn Cade</hi> meeting with this Examinant between Rodpole and this towne, the ſaid Captaine <hi>Cade</hi> ſaid to this Examinant, that there were forces were comming to take this town of Way<g ref="char:EOLhyphen"/>mouth, and Melcombe Regis, and asked of this Exami<g ref="char:EOLhyphen"/>nant, whether hee would be one of thoſe that would aſ<g ref="char:EOLhyphen"/>ſiſt in help gaining of the Town, and deſired him to put his hand to a liſt in writting to that purpoſe, to be of the company for betraying of the Town. And fur<g ref="char:EOLhyphen"/>ther ſaith, that the ſaid Captain divers other times after ſolicited this Examinant, to further the deſigne upon the Town.</p>
+            </div>
+            <div type="testimony">
+               <head>The Examination of <hi>Anne</hi> the wife of <hi>Fabian Hodder</hi> of this Towne, Merchant: 3 March. 1644.</head>
+               <p>
+                  <hi>VVHo ſaith, that ſhee, this examinants husband about Chriſtmas laſt, had Writ to Sir</hi> Lewis Dive <hi>at Sherbourn, to this effect, that Portland men would come, and take the Forts of this Town, if the ſaid Sir</hi> Lewis Dive <hi>would pleaſe to come and take the Towne of Melcombe, which Letters was unſealed and delivered by this Examinant to</hi> Elizabeth Wall <hi>widow, daughter of myſtris</hi> Thomazine Dennis <hi>Widow, with the contents of which Letters, ſhe this Examinant acquainted the ſaid</hi> Elizabeth VVall, <hi>who undertook to convey the ſame Let<g ref="char:EOLhyphen"/>ters to Sir</hi> Lewis Dive. <hi>To which Letters Sir</hi> Lewis Dive <hi>made anſwer in writing</hi> (<hi>which was ſent to this Ex<g ref="char:EOLhyphen"/>aminants husband by the ſaid</hi> Elizabeth VVall) <hi>that he would come up with</hi> 1500, <hi>Horſe and Foot, on Sabbath laſt
+<pb n="8" facs="tcp:121093:6"/>was three weeks, about midnight, which was neere about the time that the Forts were ſurprized by Portland men. And this Examinant further ſaith, that her husband a<g ref="char:EOLhyphen"/>bout a vveek before the ſaid forts were ſurprized, wrote another letter to Sir</hi> Lewis Dive <hi>to the like effect as the former, which this Examinant delivered to</hi> Thomas Samwaies <hi>Taylor, to be conveyed by the ſaid</hi> Elizabeth VVall, <hi>which ſaid</hi> Elizabeth <hi>did of ten come to this exami<g ref="char:EOLhyphen"/>nants houſe, in meſſages from</hi> Richard Mighill, <hi>and ano<g ref="char:EOLhyphen"/>ther Gunner ſithence kild, who were put out of this Town, and afterwards lived in Portland. And this Examinant ſaith, that on Saturday laſt was three weekes, which was the day before the execution of the deſigne, the Governour of Portland and others there ſent to this examinants hus<g ref="char:EOLhyphen"/>band in writing, that they would come in the next day; which Letters was brought by the ſaid</hi> Elizabeth VVall <hi>to this Examinant, and delivered by her husband.</hi>
+               </p>
+            </div>
+            <div type="testimony">
+               <head>
+                  <hi>March</hi> 10. 1644.</head>
+               <p>
+                  <hi>Iohn Barnes</hi> of <hi>Preſton</hi> husbandman affirmeth, that <hi>Iohn Anthony,</hi> and <hi>Edward Flatman,</hi> on Thurſday laſt, ſaid that <hi>Robert Bowyer, John Bowyer, Andrew Gatrhell, Thomas Galchell,</hi> and the ſaid <hi>Edward Flatman,</hi> and divers others to the number of thirtie and upwards, knew of the intention of the late ſurpriſal of the forts of this Garriſon, before they were ſurpriſed by the Cava<g ref="char:EOLhyphen"/>liers, and knew that the word was Crabchurch and the ſigne was a white handkercheife about their Armes.</p>
+            </div>
+            <div type="testimony">
+               <head>
+                  <hi>March</hi> 11th. 1644.</head>
+               <p>The ſaid Robert Bowyer being examined ſaith, that about ſix weeks ſithence, one of the ſouldiers in Arms
+<pb n="9" facs="tcp:121093:6"/>for the Parliament, left a musket at this Examinants houſe, which being demanded by the Forces in Armes againſt the Parliament, that lately came to this Gar<g ref="char:EOLhyphen"/>riſon, this Examinant told them he would ſerve in the ſad Musket himſelf, to this intent (as this Examinant ſaith) to preſerve the ſame Musket. And accordingly this Examinant took his Musket and marched with the Cavaliers unto Caſeway, about a day or two after the Forts of this Garriſons were ſurpriſed by the Enemy, where this Exammant ſtayed about one houre, and half, and then in the evening returned unto his houſe in Sut<g ref="char:EOLhyphen"/>ton with his Musket, and there ſtaid and went abroad no more afterwards. And this Examinant ſaith, that he had ſome Match and Powder, but no Bullets, Bande<g ref="char:EOLhyphen"/>leers, or ſword, and that hee did not charge his musket. And further this Examinant ſaith, that Maſter <hi>Waad</hi> Clerke curate of Sutton, John Feildew, Edward Flat<g ref="char:EOLhyphen"/>man, and Thomas Gatrhell, were all at Caſeway in the company of the Cavaliers. And afterward they returned unto Sutton aforeſaid, but whether any of them had Armes or no, this Examinant knoweth not, for that, as this Examinant ſaith, he was diſtempered with beere. And this Examinant ſaith, that he was not inliſted in any company, or under any command, And that in his march towards Caſevvay, he diſcharged his Musket, which vvas loaden with Powder only; once or twice.</p>
+               <p>The ſaid Iohn Bovvyer being examined, ſaith that on Sunday, vvhen the Forts of this Garriſon vvere ſur<g ref="char:EOLhyphen"/>priſed about halfe an houre after ſun-ſetting, William VVilſheer of Sutton aforeſaid, came to this Exami<g ref="char:EOLhyphen"/>nants houſe, and asked this Examinant, vvhether hee
+<pb n="10" facs="tcp:121093:7"/>would goe forth in the fields and ſee if the Kings Army was coming, upon which the Examinant, and the ſaid Wilſheere, went into Sutton Cowleaze called <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ordan,
+<note place="margin">
+                     <hi>Edward Flat<g ref="char:EOLhyphen"/>man. Iohn Feildue, will Wilſheer, Tho. Cox, Iohn Meech Junior. Alexander Butcher, Iohn New,</hi> and two of Vpway, <hi>Iohn Bowyer, Johnbryer, &amp;c.</hi>
+                  </note> and there met with thoſe named in the margent of this Examinants examination, who had no Armes ſave that Maſter Feildue had a Piſtoll. And this Examinant ſaith, that all the ſame parties met in that place to meet the Kings Army, that were coming againſt the Town of Waymouth, and Melcomb Regis. And ſtayed about an hour and more, and thence went unto Week Oliver, and ſate there a<g ref="char:EOLhyphen"/>bout an hour and drank a pipe of Tabbacco and went thence to the higher end of Mr. Kains Ground in the Cowleaze, &amp; layed there a houre: and thence came to Newhouſe Maſter Kaines Dayrie houſe, and there a little above that houſe ſtayed about an houre to ſee the comming of the Kings Army, and there ſaw ſhooting againſt the Town, and did conceive the Town taken by the Kings Army, and ſaid before that they conceived the Kings Army would not come down to take the Town.</p>
+               <p>The ſaid <hi>Andrew Gatrhell, alias Blanchard,</hi> being examined ſaith, that on Sunday night, before the Forts of this Garriſon were ſurpriſed, Iohn Feildue came to this Examinant at his houſe about two houres in the night, and told him that the Kings forces were comming down to take this Town, and told this Examinant that he had gotten ſome company, and ſpake to the Examinant to go with him that night, ſaying that it would be worth to him five pounds, but this Examinant refuſed to go with him, and went to bed.</p>
+               <p>The ſaid <hi>Thomas Gatrhell, alias Blanchard</hi> being examined ſaith, that on Sunday night before the Forts of this town were ſurpriſed, <hi>Iohn Peildue</hi> about two hours in night came to this Examinant, and ſpake to him, to go with him that night, and promiſed him that it would be worth to him five pounds, but this Examinant ſaith that he refuſed to goe with him, and went to bed, and further ſaith that the Wedneſday following hee this Examinant, and <hi>Roger Bowyer, Simon Wilſheere, Iohn VVand</hi> Clerke, <hi>Iohn Peildue, and Edward Flatman,</hi> went
+<pb n="11" facs="tcp:121093:7"/>to Caſeway to ſee the Souldiers, becauſe they were reported to be a great Army: And ſaith, that this Examinant and the ſaid Robert Bowyer, and VVilliam VVilſheere, ſtayed at Cauſeway at the Ale-houſe, about two houres, and then returned back unto Sutton.</p>
+               <p>The ſaid Iohn Bryer being examined ſaith, That Iohn Feildue came to him that ſunday night, before the Forts of this Town were ſurpriſed, and ſpake to him to go with him a mile or two that night, and this Exami<g ref="char:EOLhyphen"/>nant ſaith, that about an hour or two in night, that Sunday night, Iohn Feildue, Iohn Bowyer, Iohn Meech the younger, William Wilſheer, Edw. Flatman, Tho<g ref="char:EOLhyphen"/>mas Coxe, Alexander Butcher, Iohn New, and fixe or ſeven of Vpway and Broadway, whoſe names this Exa<g ref="char:EOLhyphen"/>minant doth not know, met all in Rodpoll Field, about M. Kaynes Dairie Houſe: And ſaith that they all ſtaid there in that place, about three or four houres, untill a<g ref="char:EOLhyphen"/>bout an hour after the beginning of the Onſet on this Town by Portland men: And this Examinant ſaith, that during the ſight, M. Feildue told the company, that he conceived that Portland men had entred the Nore: and ſaith; That the ſaid Iohn Fieldue, the ſame Sunday af<g ref="char:EOLhyphen"/>ter Evening prayer, at the widdow Bradfords houſe, none being preſent but the ſaid Iohn Feildue and the ſaid Examinant, that this Town would be taken that night: And further ſaith, That the ſaid Iohn Feildue by the way as they went into Radpoll field, and in the field when they met all together, told them that the de<g ref="char:EOLhyphen"/>ſigne was that Portland men were that night to ſurpriſe the North point, and Sir Lewis Dive with his Forces
+<pb n="12" facs="tcp:121093:8"/>were to make an onſet on Melcomb, with the aſſiſtance of the ſaid Feildue and the reſt of the ſaid Companie; and ſaith they all ſtaid in Rodpoll field about two hours after the Onſet by Portland men, expecting Sir Lewis Dives forces, and they not comming all of them retur<g ref="char:EOLhyphen"/>ned unto Sutton, and their own homes; And ſaith, the Vpway men had long ſtaves, and one of them a Welch hook, and Mr. Feildue a piſtoll, and all the reſt but ſticks in their hands; And that the number of the per<g ref="char:EOLhyphen"/>ſons ſo met together, were in all about ſixteen, and ſaith that Mr. Feildue told all the ſaid Companie, that the word was Crab-church, and further ſaith, that the ſaid Iohn Meech the younger, came down to this Town to fetch the word, but what word, this Examinant know<g ref="char:EOLhyphen"/>eth not.</p>
+               <p>The ſaid VVilliam VVilſheere being examined, ſaith, That Iohn Feildue on Sunday in the Evening, be<g ref="char:EOLhyphen"/>fore the Forts were ſurpriſed, ſent Alexander Bencher to this Examinant, to have him come to the ſaid Feil<g ref="char:EOLhyphen"/>due which he did accordingly; And then the ſaid Feil<g ref="char:EOLhyphen"/>due ſpake to this Examinant, to go with him to VVeek Oliver, and thereupon this Examinant and Iohn New went to VVeek Oliver, and there met with the ſaid Iohn Feildue, Iohn Bryer, Alexander Butcher, Edward Flatman, Iohn Meech the younger, Iohn Bowyer, and Thomas Coge, and there ſtayed about half an hour af<g ref="char:EOLhyphen"/>ter this Examinants comming thither, and went thence to Rodpoll, by Mr. Kaynes Dairie houſe, and there met with Richard Keate and Iohn Hayne of Broadway or Vpway: And ſaith, that Mr. Feildue and the ſaid Meech had Piſtols, Haine, a VVelch hook, and the reſt Cud<g ref="char:EOLhyphen"/>gels: And ſaith that Iohn Meech told this Examinant,
+<pb n="13" facs="tcp:121093:8"/>that if the Town were taken they ſhould have five l. a piece, and ſaid that the Cavalieres word was Crab<g ref="char:EOLhyphen"/>church. And the ſaid Meech told this Examinant, that he had both words from the Town, and then Mr. Feil<g ref="char:EOLhyphen"/>due told this Examinant and the reſt of the Company, that Portland men would ſurprize the North Fort, and that Sir Lewis Dive would come with his forces, and make an Onſet on Melcomb, and in expectation of the comming of his Forces, this Examinant and the reſt ſtayed about an hour and halfe after the Onſet by the Portland men, and then returned to their own homer.</p>
+            </div>
+            <div type="confession">
+               <head>
+                  <hi>The Confeſsion of</hi> Nicholas Chappell, <hi>taken the</hi> 17. <hi>of</hi> Febr. 1644.</head>
+               <p>THat John Mills on Friday February the 7. went out of Portland to Fleer, and came back on Satur<g ref="char:EOLhyphen"/>day night, and on Sunday Febr. 9. order was given at Portland Church, that all Iſlanders and Souldiers ſhould appear at the Caſtle by five of the clocke, with their Arms; And a partie was choſen and ſent along the Beach, whom John Dry a Tanner met at the paſſage, and conducted them to the Chappell Fort: A partie was ſent by VVater, whom VValter Bond a Fiſherman of Hope met at the Peere, and conducted them to the North Point: And the ſaid Nicholas Chappell heard the Enemy ſay, the Gunners were conſenting to the Plot, and that John Feildue was to come on Melcomb ſide with 60. men, and to be let into the Town, but by whom this Examinant knoweth not: And that the number of men brought over for the ſurpriſall of the Forts were 120. with whom the Towneſmen were to joyn.</p>
+               <p>
+                  <pb n="14" facs="tcp:121093:9"/>
+There is already condemned by the Councell of War, Wal<g ref="char:EOLhyphen"/>ter Bond a Sayler, Thomas Samwayes a Tayler, that dwelt in Melcomb, John Mills the Conſtable of the Town, and Captain <hi>Iohn Cade;</hi> beſides an Iriſh Rebell a native Papiſt, that put a Rope about his own neck, and hanged himſelf.</p>
+               <p n="1">1. Captain <hi>Iohn Cade</hi> is hanged, according to ſentence de<g ref="char:EOLhyphen"/>nounced againſt him by the Councell of VVar, whoſe confeſ<g ref="char:EOLhyphen"/>ſions is before amongſt the Examinations: Beſides which, he made no other at all; for when he was upon the Ladder, all that he would ſay before he died was onely this, that he could ſay no more then he had ſaid already, and ſo died.</p>
+               <p n="2">2. John Mills the Conſtable is alſo hanged according to ſen<g ref="char:EOLhyphen"/>tence denounced againſt him by the Councell of VVar, who died moſt deſperately; what he ſaid at his Exrmination, is be<g ref="char:EOLhyphen"/>fore, ſince which nothing more would be confeſſed by him, nor any ſigne or token of ſorrow or repentance: But when he was upon the Ladder, he moſt deſperately threw himſelf off, not ſhewing any ſignes of humiliation, or calling upon God for mer<g ref="char:EOLhyphen"/>cie on his ſoul, but careleſly in a moſt deſperate manner died, not ſo much as praying to God to receive his ſoul.</p>
+               <p n="3">3. VValter Bond Sailer, he was reprieved by the Councell of VVar, and is now in the priſon, his Confeſsion is before.</p>
+               <p n="4">4. Thomas Samwayes the Tayler that lived in Melcomb, he was reprieved by the Councell of VVarre, and hath expreſſed much ſorrow for his treacherous fact; He was brought to the Gallowes to be hanged, but upon his penirency and confeſ<g ref="char:EOLhyphen"/>ſion, he was reprieved and carried back to the priſon.</p>
+               <p n="5">5. The Iriſh Rebell hanged himſelf without judgement or execution, doing all upon himſelf.</p>
+               <p n="6">6. Divers of them are ſlain; Fabian Hodder and others, are in Priſon in Poole, and other places, not yet tried; and ſome are run away,</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
